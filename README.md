@@ -3,7 +3,7 @@ This is application version of the sheridan college app where student can keep t
 
 **Figma Link**
 
-https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A3
+https://www.figma.com/file/vxPYyK9vKUg61DFSkfQOQN/Jashanpreet_A3?node-id=0%3A1
 
 **Functionalities:**
 
