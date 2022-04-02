@@ -16,6 +16,10 @@ transit
 6. Check important Announcements of the course without logging in through Browser
 
 
-#Design:** 
+**Design:**
 
 <img width="958" alt="Screen Shot 2022-04-01 at 8 55 25 PM" src="https://user-images.githubusercontent.com/75087492/161357881-cd327778-cc2c-4820-b776-992f9d6fc2ea.png">
+
+**Prototype**
+
+<img width="948" alt="Screen Shot 2022-04-01 at 8 58 52 PM" src="https://user-images.githubusercontent.com/75087492/161357959-f1a46f96-d817-4594-9083-c4f411ad1388.png">
