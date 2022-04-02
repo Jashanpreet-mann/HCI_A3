@@ -1,11 +1,11 @@
-#Sheridan Courses
+# Sheridan Courses
 This is application version of the sheridan college app where student can keep themselves organised and up to date. Here they can interact with other students, peek onto course materials, grades, and campus navigation.
 
-**Figma Link
+**Figma Link**
 
 https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A3
 
-**Functionalities:
+**Functionalities:**
 
 1. Checking Grades of the assignments without logging in through Browser
 2. Check Due Dates of the assignments through the calendar
@@ -16,6 +16,6 @@ transit
 6. Check important Announcements of the course without logging in through Browser
 
 
-#Design: 
+#Design:** 
 
 <img width="958" alt="Screen Shot 2022-04-01 at 8 55 25 PM" src="https://user-images.githubusercontent.com/75087492/161357881-cd327778-cc2c-4820-b776-992f9d6fc2ea.png">
